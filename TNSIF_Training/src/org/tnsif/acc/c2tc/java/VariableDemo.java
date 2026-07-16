@@ -12,7 +12,6 @@ public class VariableDemo {
 		System.out.println(obj.price);
 		obj.print();
 		System.out.println(mesage);
-		
-	}
 	
+	}
 }
