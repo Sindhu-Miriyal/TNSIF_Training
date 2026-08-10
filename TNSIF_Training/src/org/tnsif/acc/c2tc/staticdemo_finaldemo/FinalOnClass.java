@@ -7,10 +7,7 @@ final class AadharGenerator
 		System.out.println("Generated aadhar ID");
 	}
 }
-//class Myaadhar extends  AadharGenerator
-//{
-//	
-//}
+
 public class FinalOnClass {
 
 	public static void main(String[] args) {
